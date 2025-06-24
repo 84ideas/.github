@@ -81,7 +81,7 @@ This document outlines the new team structure and workflow setup for this projec
 ### 5. Communication & Meetings
 
 - **Sprint Length**: TBD
-- **weekly checkups**: 13:13 on Tuesdays
+- **weekly checkups**: 13:30 on Tuesdays
 
 ---
 
