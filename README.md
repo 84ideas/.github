@@ -7,7 +7,7 @@ Welcome to the **84ideas** repository! This serves as the central hub for our pr
 ## 📌 Repos
 
 
-# Team Structure & Workflow - NEW KIDS IN TOWN
+# Team Structure & Workflow
 
 ### 1. Overview
 
@@ -20,6 +20,7 @@ This document outlines the new team structure and workflow setup for this projec
 - **Maris**: Focus on business side of Swoep Focus on business side of Swoep
 - **Musa**: Works on Swoep back-end development / Project Manager — contact for task-related questions
 - **Mason**: Works on Swoep back-end development
+- ???
 
 ---
 
