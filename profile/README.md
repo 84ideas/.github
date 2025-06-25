@@ -64,8 +64,8 @@ This document outlines the new team structure and workflow setup for this projec
 
 - **Project Management**:
   - Everyone is responsible for keeping the board up-to-date. It is not the responsibility of the team lead to clean it up.
-  - Use the [**Board**](XXX) view to track sprint-specific tasks
-  - Use the [**Backlog**](XXX) view to manage overall structure (Epics > Features > User Stories/Bugs)
+  - Use the [**Board**]((https://dev.azure.com/OhMyMood/Oh%20My%20Mood%20Application%20Development/_boards/board/t/Oh%20My%20Mood%20Application%20Development%20Team/Stories)) view to track sprint-specific tasks
+  - Use the [**Backlog**]((https://dev.azure.com/OhMyMood/Oh%20My%20Mood%20Application%20Development/_backlogs/backlog/Oh%20My%20Mood%20Application%20Development%20Team/Stories)) view to manage overall structure (Epics > Features > User Stories/Bugs)
 - **Board Columns**:
   - **New**: Newly added work items
   - **Active**: Currently in progress
@@ -81,7 +81,7 @@ This document outlines the new team structure and workflow setup for this projec
 ### 5. Communication & Meetings
 
 - **Sprint Length**: TBD
-- **weekly checkups**: 13:30 on Tuesdays
+- **weekly checkups**: 13:00 CET on Tuesdays
 
 ---
 
