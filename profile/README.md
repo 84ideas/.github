@@ -88,7 +88,7 @@ This document outlines the new team structure and workflow setup for this projec
 
 ### 6. Good Practices
 
-- Use **Python version 3.11.7** for all development
+- Use **Python version 3.11.7** if Python is used
 - Use **uv** to create and manage Python environments
   - Documentation: [uv environments](https://docs.astral.sh/uv/pip/environments/#discovery-of-python-environments)
 
