@@ -59,7 +59,7 @@ This document outlines the new team structure and workflow setup for this projec
 | ---------------- | ------------------------------------------------------------------------------------------ | ------------------------- | ----------------------------------------------------- |
 | Epic             | High-level product goals that group multiple features                                      | Weeks to months           | chatbot MVP                                             |
 | Feature          | A collection of related user stories that fulfill a product objective                      | Several days to a week    | Make chatbot answer efficiently                         |
-| User Story / Bug | User stories are for new features or improvements. Bugs are defects that need to be fixed. | A few hours to 3 days     | Fine-tune chat completion model / Quang: File exports |
+| User Story / Bug | User stories are for new features or improvements. Bugs are defects that need to be fixed. | A few hours to 3 days     | Fine-tune chat completion model |
 | Task             | Subtasks linked to user stories for detailed implementation                                | About 1 hour              | Add the fine tuned model in the DB scheme excel file  |
 
 - **Project Management**:
