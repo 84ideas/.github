@@ -18,9 +18,9 @@ This document outlines the new team structure and workflow setup for this projec
 ### 2. Team Structure
 
 - **Maris**: Solution Architect
-- **Musa**: Works on Swoep back-end development / Project Manager — contact for task-related questions
-- **Mason**: Works on Swoep back-end development
-- ???
+- **Musa**: Works on back-end development
+- **Mason**: Works onback-end development
+- **Annelou**: Product owner
 
 ---
 
